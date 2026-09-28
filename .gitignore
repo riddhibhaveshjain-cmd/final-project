@@ -1,0 +1,7 @@
+.venv/
+_pycache_/
+.env
+chroma_db/
+audio_out/
+models/voices/
+.ipynb_checkpoints/
